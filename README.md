@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:7FDBFF&height=180&section=header&text=Parameter-Efficient%20Fine-Tuning&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=LLM-Driven%20Telephony%20Agent%20%7C%20Twilio%20%C2%B7%20ElevenLabs%20%C2%B7%20OpenAI&descAlignY=58&descSize=18&descColor=f4a8c9
-" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:7FDBFF&height=180&section=header&text=Parameter-Efficient%20Fine-Tuning&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=LLM-Driven%20Telephony%20Agent%20%7C%20Twilio%20%C2%B7%20ElevenLabs%20%C2%B7%20OpenAI&descAlignY=58&descSize=18&descColor=f4a8c9" width="100%"/>
 
 
 
